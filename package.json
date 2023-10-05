@@ -1,0 +1,23 @@
+{
+  "name": "swaggerdocnodejs",
+  "version": "1.0.0",
+  "description": "Swagger Documentation for API develop with express JS",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "start": "nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricay/swaggerDocNodeJs.git"
+  },
+  "author": "Osundare Kayode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enricay/swaggerDocNodeJs/issues"
+  },
+  "homepage": "https://github.com/enricay/swaggerDocNodeJs#readme"
+}
