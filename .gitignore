@@ -1,5 +1,8 @@
 # Dependency directories
 node_modules/
 
-# Debug log from npm
-.DS_Store
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
